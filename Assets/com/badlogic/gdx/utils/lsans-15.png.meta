@@ -1,0 +1,3809 @@
+fileFormatVersion: 2
+guid: 594bf4a2be98d4b4083726822ba62582
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6759396397753662996
+    second: lsans-15_0
+  - first:
+      213: -5392743465845110182
+    second: lsans-15_1
+  - first:
+      213: -1468604157372102012
+    second: lsans-15_2
+  - first:
+      213: 3569957572019173805
+    second: lsans-15_3
+  - first:
+      213: -7519524991527120924
+    second: lsans-15_4
+  - first:
+      213: 8153900666347110701
+    second: lsans-15_5
+  - first:
+      213: -7598659740506799624
+    second: lsans-15_6
+  - first:
+      213: -7990653384545103839
+    second: lsans-15_7
+  - first:
+      213: -7186048866557735798
+    second: lsans-15_8
+  - first:
+      213: -1774940302758962217
+    second: lsans-15_9
+  - first:
+      213: -3327605447581006003
+    second: lsans-15_10
+  - first:
+      213: 5054657439309603894
+    second: lsans-15_11
+  - first:
+      213: -3826837406900618534
+    second: lsans-15_12
+  - first:
+      213: -2114291375932329109
+    second: lsans-15_13
+  - first:
+      213: -979661838417669441
+    second: lsans-15_14
+  - first:
+      213: 5064222551601947588
+    second: lsans-15_15
+  - first:
+      213: 7350296369432643759
+    second: lsans-15_16
+  - first:
+      213: 8854679574304389384
+    second: lsans-15_17
+  - first:
+      213: 817251208714977593
+    second: lsans-15_18
+  - first:
+      213: 9199585020296219931
+    second: lsans-15_19
+  - first:
+      213: 8299636194021538981
+    second: lsans-15_20
+  - first:
+      213: 8342410679055792204
+    second: lsans-15_21
+  - first:
+      213: -6796317642309989737
+    second: lsans-15_22
+  - first:
+      213: 3407826293969928920
+    second: lsans-15_23
+  - first:
+      213: -5696794616254338621
+    second: lsans-15_24
+  - first:
+      213: 3562847872098392858
+    second: lsans-15_25
+  - first:
+      213: -2396811937840696838
+    second: lsans-15_26
+  - first:
+      213: 7065050237429995653
+    second: lsans-15_27
+  - first:
+      213: 5501101767907468382
+    second: lsans-15_28
+  - first:
+      213: -2113102916098921229
+    second: lsans-15_29
+  - first:
+      213: -5837625579650106143
+    second: lsans-15_30
+  - first:
+      213: 2138448184065354532
+    second: lsans-15_31
+  - first:
+      213: 8204631597792741315
+    second: lsans-15_32
+  - first:
+      213: 174289582433521764
+    second: lsans-15_33
+  - first:
+      213: 5342870915361864753
+    second: lsans-15_34
+  - first:
+      213: -2851154507806309285
+    second: lsans-15_35
+  - first:
+      213: -2283392237057679433
+    second: lsans-15_36
+  - first:
+      213: -8641025804634858022
+    second: lsans-15_37
+  - first:
+      213: -3140303645962073890
+    second: lsans-15_38
+  - first:
+      213: 6656101755199450253
+    second: lsans-15_39
+  - first:
+      213: 5125548631453672703
+    second: lsans-15_40
+  - first:
+      213: -7392420573844416779
+    second: lsans-15_41
+  - first:
+      213: -4586729036967371671
+    second: lsans-15_42
+  - first:
+      213: 2890548425467661807
+    second: lsans-15_43
+  - first:
+      213: -1520455894381423149
+    second: lsans-15_44
+  - first:
+      213: 7038319447099773736
+    second: lsans-15_45
+  - first:
+      213: -4604356970597195259
+    second: lsans-15_46
+  - first:
+      213: -4451969988986609278
+    second: lsans-15_47
+  - first:
+      213: -259560519470370270
+    second: lsans-15_48
+  - first:
+      213: -4933534529528440865
+    second: lsans-15_49
+  - first:
+      213: 4437964465782080149
+    second: lsans-15_50
+  - first:
+      213: -7144394922050270245
+    second: lsans-15_51
+  - first:
+      213: 8934822584908867632
+    second: lsans-15_52
+  - first:
+      213: -4938773279398634509
+    second: lsans-15_53
+  - first:
+      213: -541276862965722641
+    second: lsans-15_54
+  - first:
+      213: -1505070034396916074
+    second: lsans-15_55
+  - first:
+      213: 1462967527877449622
+    second: lsans-15_56
+  - first:
+      213: 559334975676125700
+    second: lsans-15_57
+  - first:
+      213: -5124556808404165231
+    second: lsans-15_58
+  - first:
+      213: 6004107090868315317
+    second: lsans-15_59
+  - first:
+      213: -3400396832870868809
+    second: lsans-15_60
+  - first:
+      213: 7913267122065491287
+    second: lsans-15_61
+  - first:
+      213: -918096759883433961
+    second: lsans-15_62
+  - first:
+      213: 2168280149506778397
+    second: lsans-15_63
+  - first:
+      213: 2295501911398728584
+    second: lsans-15_64
+  - first:
+      213: 796093334841833105
+    second: lsans-15_65
+  - first:
+      213: 4604192985276369191
+    second: lsans-15_66
+  - first:
+      213: 3247990904053059624
+    second: lsans-15_67
+  - first:
+      213: 329790571096052059
+    second: lsans-15_68
+  - first:
+      213: -4390085912024708685
+    second: lsans-15_69
+  - first:
+      213: -4668305610928064705
+    second: lsans-15_70
+  - first:
+      213: -7582579085887095618
+    second: lsans-15_71
+  - first:
+      213: 3664491558722560681
+    second: lsans-15_72
+  - first:
+      213: -334864187349508583
+    second: lsans-15_73
+  - first:
+      213: 790131249409176605
+    second: lsans-15_74
+  - first:
+      213: 1405044038962457605
+    second: lsans-15_75
+  - first:
+      213: -3404024298277164295
+    second: lsans-15_76
+  - first:
+      213: -5444283047623554235
+    second: lsans-15_77
+  - first:
+      213: -277950700633764101
+    second: lsans-15_78
+  - first:
+      213: 5231104082471144837
+    second: lsans-15_79
+  - first:
+      213: 7815115598136559370
+    second: lsans-15_80
+  - first:
+      213: -8218974943666061272
+    second: lsans-15_81
+  - first:
+      213: -993767284444132552
+    second: lsans-15_82
+  - first:
+      213: 7010293978163078014
+    second: lsans-15_83
+  - first:
+      213: 2407024698217668495
+    second: lsans-15_84
+  - first:
+      213: 4154104619500373003
+    second: lsans-15_85
+  - first:
+      213: -1208331509136468364
+    second: lsans-15_86
+  - first:
+      213: 2091854028425326981
+    second: lsans-15_87
+  - first:
+      213: -5076546216759412305
+    second: lsans-15_88
+  - first:
+      213: 3557289086706495764
+    second: lsans-15_89
+  - first:
+      213: -3683045538663973935
+    second: lsans-15_90
+  - first:
+      213: 4710990081654858059
+    second: lsans-15_91
+  - first:
+      213: 2671991819052154174
+    second: lsans-15_92
+  - first:
+      213: -4916816225678648501
+    second: lsans-15_93
+  - first:
+      213: -3460557166592316931
+    second: lsans-15_94
+  - first:
+      213: -3351669582016559525
+    second: lsans-15_95
+  - first:
+      213: -2866023213126614021
+    second: lsans-15_96
+  - first:
+      213: 2151015655893787925
+    second: lsans-15_97
+  - first:
+      213: -5026537498462481947
+    second: lsans-15_98
+  - first:
+      213: -3573278985909397880
+    second: lsans-15_99
+  - first:
+      213: 4633451369407342307
+    second: lsans-15_100
+  - first:
+      213: -4905809169300053915
+    second: lsans-15_101
+  - first:
+      213: -8541188840669886445
+    second: lsans-15_102
+  - first:
+      213: -8886793905839728856
+    second: lsans-15_103
+  - first:
+      213: 1301464529784130936
+    second: lsans-15_104
+  - first:
+      213: 5840678531808792946
+    second: lsans-15_105
+  - first:
+      213: 3868589940604643499
+    second: lsans-15_106
+  - first:
+      213: 2294630057122857582
+    second: lsans-15_107
+  - first:
+      213: 9094457526937664724
+    second: lsans-15_108
+  - first:
+      213: 61709000421231333
+    second: lsans-15_109
+  - first:
+      213: -8272529036416908174
+    second: lsans-15_110
+  - first:
+      213: -2927424254570890761
+    second: lsans-15_111
+  - first:
+      213: -7696057941368099832
+    second: lsans-15_112
+  - first:
+      213: -959615747381088867
+    second: lsans-15_113
+  - first:
+      213: 8370871841190885387
+    second: lsans-15_114
+  - first:
+      213: -6932819885900403237
+    second: lsans-15_115
+  - first:
+      213: 7406354180997339357
+    second: lsans-15_116
+  - first:
+      213: 3716238900569685587
+    second: lsans-15_117
+  - first:
+      213: 2989702984511517188
+    second: lsans-15_118
+  - first:
+      213: 8682999605299621742
+    second: lsans-15_119
+  - first:
+      213: -3705872817131683893
+    second: lsans-15_120
+  - first:
+      213: -1008148079325978062
+    second: lsans-15_121
+  - first:
+      213: -6605116226443283047
+    second: lsans-15_122
+  - first:
+      213: -7800930871985888064
+    second: lsans-15_123
+  - first:
+      213: -8177988817943767437
+    second: lsans-15_124
+  - first:
+      213: 7697528923341149133
+    second: lsans-15_125
+  - first:
+      213: 4244073555746062244
+    second: lsans-15_126
+  - first:
+      213: 2263505970767876743
+    second: lsans-15_127
+  - first:
+      213: -9755734697453475
+    second: lsans-15_128
+  - first:
+      213: -2672628138782720114
+    second: lsans-15_129
+  - first:
+      213: -2380451330748938276
+    second: lsans-15_130
+  - first:
+      213: -5549568201405661852
+    second: lsans-15_131
+  - first:
+      213: 4351791588848548774
+    second: lsans-15_132
+  - first:
+      213: 2895817849303286942
+    second: lsans-15_133
+  - first:
+      213: -255241210517598000
+    second: lsans-15_134
+  - first:
+      213: -7635982427194181474
+    second: lsans-15_135
+  - first:
+      213: -224993289666038353
+    second: lsans-15_136
+  - first:
+      213: -6863351754963270121
+    second: lsans-15_137
+  - first:
+      213: -6177007777885670970
+    second: lsans-15_138
+  - first:
+      213: 156508569315079952
+    second: lsans-15_139
+  - first:
+      213: 3899861947214721278
+    second: lsans-15_140
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lsans-15_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce186dff9ccc132a0800000000000000
+      internalID: -6759396397753662996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 110
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a4e79c3602925b0800000000000000
+      internalID: -5392743465845110182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 94
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a8c24cc487e9be0800000000000000
+      internalID: -1468604157372102012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 111
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da93b6f4f790b8130800000000000000
+      internalID: 3569957572019173805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 94
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef8a504cd745a790800000000000000
+      internalID: -7519524991527120924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 111
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21c07f6479782170800000000000000
+      internalID: 8153900666347110701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 111
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1c706b9332c8690800000000000000
+      internalID: -7598659740506799624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 111
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1209ae2451f7b1190800000000000000
+      internalID: -7990653384545103839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 111
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c4a3211a6064c90800000000000000
+      internalID: -7186048866557735798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 111
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db178cd2352e57e0800000000000000
+      internalID: -1774940302758962217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 94
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d478740d978f1d1d0800000000000000
+      internalID: -3327605447581006003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 111
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634a55b0920c52640800000000000000
+      internalID: 5054657439309603894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 111
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adaf28467a754eac0800000000000000
+      internalID: -3826837406900618534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 111
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63b1e1123788a2e0800000000000000
+      internalID: -2114291375932329109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 94
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2db199fba8762f0800000000000000
+      internalID: -979661838417669441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 111
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3a1cb449bb74640800000000000000
+      internalID: 5064222551601947588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 94
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa840edba9f710660800000000000000
+      internalID: 7350296369432643759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 111
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809f152a82422ea70800000000000000
+      internalID: 8854679574304389384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 94
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93107b3f4a5775b00800000000000000
+      internalID: 817251208714977593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_19
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 111
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dc2cf95dd7baf70800000000000000
+      internalID: 9199585020296219931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 95
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acf0a5252b3e2370800000000000000
+      internalID: 8299636194021538981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 111
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48bb87005236c370800000000000000
+      internalID: 8342410679055792204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a846ddc11aea1a0800000000000000
+      internalID: -6796317642309989737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 111
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2405c75f70b4f20800000000000000
+      internalID: 3407826293969928920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_24
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 111
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c96dcbba7be0f0b0800000000000000
+      internalID: -5696794616254338621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 95
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b5e2d4347c17130800000000000000
+      internalID: 3562847872098392858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_26
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 111
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1f69bcd30dcbed0800000000000000
+      internalID: -2396811937840696838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_27
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 96
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588dd4a32c91c0260800000000000000
+      internalID: 7065050237429995653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_28
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 111
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54e56d69e6d75c40800000000000000
+      internalID: 5501101767907468382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_29
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 97
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fce410f710cca2e0800000000000000
+      internalID: -2113102916098921229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_30
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 111
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecb831e6769cfea0800000000000000
+      internalID: -5837625579650106143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_31
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 111
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b6bcd1b4b4dad10800000000000000
+      internalID: 2138448184065354532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_32
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 97
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7c16bd7f4bcd170800000000000000
+      internalID: 8204631597792741315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_33
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 111
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4605009a3733b6200800000000000000
+      internalID: 174289582433521764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_34
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 111
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cf8ee2ac0b52a40800000000000000
+      internalID: 5342870915361864753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_35
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 97
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54837ac41aae68d0800000000000000
+      internalID: -2851154507806309285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_36
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 111
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfda4bbbd2cf40e0800000000000000
+      internalID: -2283392237057679433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_37
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 97
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add51c310d8e41880800000000000000
+      internalID: -8641025804634858022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_38
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 111
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed80197d8766b64d0800000000000000
+      internalID: -3140303645962073890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_39
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 97
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c6483e7493f5c50800000000000000
+      internalID: 6656101755199450253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_40
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 97
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff429c0f25b912740800000000000000
+      internalID: 5125548631453672703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_41
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 111
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6d6b1a7a8d86990800000000000000
+      internalID: -7392420573844416779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c179e0e3aa850c0800000000000000
+      internalID: -4586729036967371671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed801a6a7a4d1820800000000000000
+      internalID: 2890548425467661807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_44
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 81
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d51fb67b6146eae0800000000000000
+      internalID: -1520455894381423149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_45
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 81
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8231b1c1f322da160800000000000000
+      internalID: 7038319447099773736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_46
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 81
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502e57ceab90a10c0800000000000000
+      internalID: -4604356970597195259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_47
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 81
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281e0cfe1ec6732c0800000000000000
+      internalID: -4451969988986609278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_48
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 94
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222b04f251bd56cf0800000000000000
+      internalID: -259560519470370270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_49
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 81
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd755500c70988bb0800000000000000
+      internalID: -4933534529528440865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_50
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 94
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5924fb41b21d69d30800000000000000
+      internalID: 4437964465782080149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_51
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 81
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbc618cba20adc90800000000000000
+      internalID: -7144394922050270245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_52
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 81
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03861a06dcddefb70800000000000000
+      internalID: 8934822584908867632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_53
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 94
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbd04f7ed3f57bb0800000000000000
+      internalID: -4938773279398634509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 81
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe15ac99f8ffc78f0800000000000000
+      internalID: -541276862965722641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_55
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 94
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696dfa527caec1be0800000000000000
+      internalID: -1505070034396916074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_56
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 81
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697111927318d4410800000000000000
+      internalID: 1462967527877449622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_57
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 81
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40290a7623823c700800000000000000
+      internalID: 559334975676125700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_58
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 81
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d92cbdbbae1e8b0800000000000000
+      internalID: -5124556808404165231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_59
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 81
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b42c98869fd25350800000000000000
+      internalID: 6004107090868315317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_60
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 81
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b85e59b81d5fc0d0800000000000000
+      internalID: -3400396832870868809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_61
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 81
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755cd7f658291dd60800000000000000
+      internalID: 7913267122065491287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_62
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 95
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718f5b57cd34243f0800000000000000
+      internalID: -918096759883433961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 81
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15e1e4de47471e10800000000000000
+      internalID: 2168280149506778397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_64
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 81
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883c62a83d24bdf10800000000000000
+      internalID: 2295501911398728584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_65
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 68
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196bd4f8baa4c0b00800000000000000
+      internalID: 796093334841833105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_66
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 81
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7294eb4402165ef30800000000000000
+      internalID: 4604192985276369191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_67
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 81
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82058c5c48e231d20800000000000000
+      internalID: 3247990904053059624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_68
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 81
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b511470f6c6a39400800000000000000
+      internalID: 329790571096052059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_69
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 81
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b902586f184313c0800000000000000
+      internalID: -4390085912024708685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_70
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 81
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f377ba5d7c8d63fb0800000000000000
+      internalID: -4668305610928064705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_71
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 81
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcb460ee7445c690800000000000000
+      internalID: -7582579085887095618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2631848a3ead230800000000000000
+      internalID: 3664491558722560681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e5809bbc25a5bf0800000000000000
+      internalID: -334864187349508583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_74
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 43
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1438fe5f2c17fa00800000000000000
+      internalID: 790131249409176605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_75
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 68
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c2324fb18bf7310800000000000000
+      internalID: 1405044038962457605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_76
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 68
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa246e9fe972c0d0800000000000000
+      internalID: -3404024298277164295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_77
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 55
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b87b9c9650274b0800000000000000
+      internalID: -5444283047623554235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_78
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 68
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe47a77f45842cf0800000000000000
+      internalID: -277950700633764101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_79
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 55
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58dc9ca827d989840800000000000000
+      internalID: 5231104082471144837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_80
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 55
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a074b81fa3ed47c60800000000000000
+      internalID: 7815115598136559370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_81
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 68
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820c2f0b5d550fd80800000000000000
+      internalID: -8218974943666061272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_82
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 55
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b8d458bed6532f0800000000000000
+      internalID: -993767284444132552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_83
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 68
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7368732b31994160800000000000000
+      internalID: 7010293978163078014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 55
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f1bd6c538776120800000000000000
+      internalID: 2407024698217668495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_85
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 45
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04012d542856a930800000000000000
+      internalID: 4154104619500373003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_86
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 68
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476520bf4e42b3fe0800000000000000
+      internalID: -1208331509136468364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_87
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 45
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581f24ed722c70d10800000000000000
+      internalID: 2091854028425326981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_88
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 68
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9b330dc1c7c89b0800000000000000
+      internalID: -5076546216759412305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_89
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 45
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411b388b3970e5130800000000000000
+      internalID: 3557289086706495764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_90
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 68
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbb850a89133ecc0800000000000000
+      internalID: -3683045538663973935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_91
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 68
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b412d65f48cc06140800000000000000
+      internalID: 4710990081654858059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_92
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 45
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d7a511762d41520800000000000000
+      internalID: 2671991819052154174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_93
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 68
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b1c8271b5f3cbb0800000000000000
+      internalID: -4916816225678648501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_94
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 45
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df925508791a9ffc0800000000000000
+      internalID: -3460557166592316931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_95
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 68
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56cb67e54a7c71d0800000000000000
+      internalID: -3351669582016559525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_96
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 45
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3809f8217d938d0800000000000000
+      internalID: -2866023213126614021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_97
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 68
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5156adba751f9dd10800000000000000
+      internalID: 2151015655893787925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_98
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 55
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e196f1e6c62e3ab0800000000000000
+      internalID: -5026537498462481947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_99
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 68
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8869081c1b9296ec0800000000000000
+      internalID: -3573278985909397880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_100
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 55
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6629da8735d4040800000000000000
+      internalID: 4633451369407342307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_101
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 55
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56024087d801bebb0800000000000000
+      internalID: -4905809169300053915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_102
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 68
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3184758a00a977980800000000000000
+      internalID: -8541188840669886445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_103
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 55
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8271152e604cba480800000000000000
+      internalID: -8886793905839728856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_104
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 55
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dcd89281bbf0210800000000000000
+      internalID: 1301464529784130936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_105
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 68
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27196bfed224e0150800000000000000
+      internalID: 5840678531808792946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_106
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 55
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8a367ed0effa530800000000000000
+      internalID: 3868589940604643499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_107
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 55
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e620eb521e928df10800000000000000
+      internalID: 2294630057122857582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_108
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 68
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc3ffdafe0063e70800000000000000
+      internalID: 9094457526937664724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_109
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 55
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea4d89420c3bd000800000000000000
+      internalID: 61709000421231333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_110
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 68
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274044ecba2123d80800000000000000
+      internalID: -8272529036416908174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_111
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 55
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9707f8623bf57d0800000000000000
+      internalID: -2927424254570890761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_112
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 68
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c2ee9e31c123590800000000000000
+      internalID: -7696057941368099832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_113
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 45
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9daa70ef82cea2f0800000000000000
+      internalID: -959615747381088867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_114
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 68
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08b08ab69f4b2470800000000000000
+      internalID: 8370871841190885387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_115
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 55
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd6421ab0da9cf90800000000000000
+      internalID: -6932819885900403237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_116
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 68
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8531713e7a8c660800000000000000
+      internalID: 7406354180997339357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_117
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 55
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35eb1f0379bb29330800000000000000
+      internalID: 3716238900569685587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_118
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 68
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402fbb7360f8d7920800000000000000
+      internalID: 2989702984511517188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_119
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 55
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fadb2f226308870800000000000000
+      internalID: 8682999605299621742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_120
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 39
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcff610be48129cc0800000000000000
+      internalID: -3705872817131683893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_121
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 43
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23268cac9a65202f0800000000000000
+      internalID: -1008148079325978062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 43
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995fda699c9e554a0800000000000000
+      internalID: -6605116226443283047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_123
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 43
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c427e9f3b68db390800000000000000
+      internalID: -7800930871985888064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_124
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 43
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3765859bf72f18e80800000000000000
+      internalID: -8177988817943767437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_125
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc35b04c5cd13da60800000000000000
+      internalID: 7697528923341149133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_126
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 45
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af7fd2b96af5ea30800000000000000
+      internalID: 4244073555746062244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_127
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 45
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782589610b6996f10800000000000000
+      internalID: 2263505970767876743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_128
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 45
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58d5d206375ddff0800000000000000
+      internalID: -9755734697453475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_129
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 45
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f74233edae8ead0800000000000000
+      internalID: -2672628138782720114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_130
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 45
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd78a997020f6fed0800000000000000
+      internalID: -2380451330748938276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_131
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 45
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d796aaf19fbf2b0800000000000000
+      internalID: -5549568201405661852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_132
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 45
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abb9dda46ba46c30800000000000000
+      internalID: 4351791588848548774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_133
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 45
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9445f1cdf2003820800000000000000
+      internalID: 2895817849303286942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_134
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 46
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0de0ba873357cf0800000000000000
+      internalID: -255241210517598000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_135
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 46
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9837fb807a870690800000000000000
+      internalID: -7635982427194181474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5fb9c8bc9a0ecf0800000000000000
+      internalID: -224993289666038353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_137
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 35
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7164cd441f970c0a0800000000000000
+      internalID: -6863351754963270121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_138
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 37
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1bc48372cd64aa0800000000000000
+      internalID: -6177007777885670970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_139
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017745ee6b70c2200800000000000000
+      internalID: 156508569315079952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lsans-15_140
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 29
+        width: 56
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0fbc457c71f1630800000000000000
+      internalID: 3899861947214721278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lsans-15_0: -6759396397753662996
+      lsans-15_1: -5392743465845110182
+      lsans-15_10: -3327605447581006003
+      lsans-15_100: 4633451369407342307
+      lsans-15_101: -4905809169300053915
+      lsans-15_102: -8541188840669886445
+      lsans-15_103: -8886793905839728856
+      lsans-15_104: 1301464529784130936
+      lsans-15_105: 5840678531808792946
+      lsans-15_106: 3868589940604643499
+      lsans-15_107: 2294630057122857582
+      lsans-15_108: 9094457526937664724
+      lsans-15_109: 61709000421231333
+      lsans-15_11: 5054657439309603894
+      lsans-15_110: -8272529036416908174
+      lsans-15_111: -2927424254570890761
+      lsans-15_112: -7696057941368099832
+      lsans-15_113: -959615747381088867
+      lsans-15_114: 8370871841190885387
+      lsans-15_115: -6932819885900403237
+      lsans-15_116: 7406354180997339357
+      lsans-15_117: 3716238900569685587
+      lsans-15_118: 2989702984511517188
+      lsans-15_119: 8682999605299621742
+      lsans-15_12: -3826837406900618534
+      lsans-15_120: -3705872817131683893
+      lsans-15_121: -1008148079325978062
+      lsans-15_122: -6605116226443283047
+      lsans-15_123: -7800930871985888064
+      lsans-15_124: -8177988817943767437
+      lsans-15_125: 7697528923341149133
+      lsans-15_126: 4244073555746062244
+      lsans-15_127: 2263505970767876743
+      lsans-15_128: -9755734697453475
+      lsans-15_129: -2672628138782720114
+      lsans-15_13: -2114291375932329109
+      lsans-15_130: -2380451330748938276
+      lsans-15_131: -5549568201405661852
+      lsans-15_132: 4351791588848548774
+      lsans-15_133: 2895817849303286942
+      lsans-15_134: -255241210517598000
+      lsans-15_135: -7635982427194181474
+      lsans-15_136: -224993289666038353
+      lsans-15_137: -6863351754963270121
+      lsans-15_138: -6177007777885670970
+      lsans-15_139: 156508569315079952
+      lsans-15_14: -979661838417669441
+      lsans-15_140: 3899861947214721278
+      lsans-15_15: 5064222551601947588
+      lsans-15_16: 7350296369432643759
+      lsans-15_17: 8854679574304389384
+      lsans-15_18: 817251208714977593
+      lsans-15_19: 9199585020296219931
+      lsans-15_2: -1468604157372102012
+      lsans-15_20: 8299636194021538981
+      lsans-15_21: 8342410679055792204
+      lsans-15_22: -6796317642309989737
+      lsans-15_23: 3407826293969928920
+      lsans-15_24: -5696794616254338621
+      lsans-15_25: 3562847872098392858
+      lsans-15_26: -2396811937840696838
+      lsans-15_27: 7065050237429995653
+      lsans-15_28: 5501101767907468382
+      lsans-15_29: -2113102916098921229
+      lsans-15_3: 3569957572019173805
+      lsans-15_30: -5837625579650106143
+      lsans-15_31: 2138448184065354532
+      lsans-15_32: 8204631597792741315
+      lsans-15_33: 174289582433521764
+      lsans-15_34: 5342870915361864753
+      lsans-15_35: -2851154507806309285
+      lsans-15_36: -2283392237057679433
+      lsans-15_37: -8641025804634858022
+      lsans-15_38: -3140303645962073890
+      lsans-15_39: 6656101755199450253
+      lsans-15_4: -7519524991527120924
+      lsans-15_40: 5125548631453672703
+      lsans-15_41: -7392420573844416779
+      lsans-15_42: -4586729036967371671
+      lsans-15_43: 2890548425467661807
+      lsans-15_44: -1520455894381423149
+      lsans-15_45: 7038319447099773736
+      lsans-15_46: -4604356970597195259
+      lsans-15_47: -4451969988986609278
+      lsans-15_48: -259560519470370270
+      lsans-15_49: -4933534529528440865
+      lsans-15_5: 8153900666347110701
+      lsans-15_50: 4437964465782080149
+      lsans-15_51: -7144394922050270245
+      lsans-15_52: 8934822584908867632
+      lsans-15_53: -4938773279398634509
+      lsans-15_54: -541276862965722641
+      lsans-15_55: -1505070034396916074
+      lsans-15_56: 1462967527877449622
+      lsans-15_57: 559334975676125700
+      lsans-15_58: -5124556808404165231
+      lsans-15_59: 6004107090868315317
+      lsans-15_6: -7598659740506799624
+      lsans-15_60: -3400396832870868809
+      lsans-15_61: 7913267122065491287
+      lsans-15_62: -918096759883433961
+      lsans-15_63: 2168280149506778397
+      lsans-15_64: 2295501911398728584
+      lsans-15_65: 796093334841833105
+      lsans-15_66: 4604192985276369191
+      lsans-15_67: 3247990904053059624
+      lsans-15_68: 329790571096052059
+      lsans-15_69: -4390085912024708685
+      lsans-15_7: -7990653384545103839
+      lsans-15_70: -4668305610928064705
+      lsans-15_71: -7582579085887095618
+      lsans-15_72: 3664491558722560681
+      lsans-15_73: -334864187349508583
+      lsans-15_74: 790131249409176605
+      lsans-15_75: 1405044038962457605
+      lsans-15_76: -3404024298277164295
+      lsans-15_77: -5444283047623554235
+      lsans-15_78: -277950700633764101
+      lsans-15_79: 5231104082471144837
+      lsans-15_8: -7186048866557735798
+      lsans-15_80: 7815115598136559370
+      lsans-15_81: -8218974943666061272
+      lsans-15_82: -993767284444132552
+      lsans-15_83: 7010293978163078014
+      lsans-15_84: 2407024698217668495
+      lsans-15_85: 4154104619500373003
+      lsans-15_86: -1208331509136468364
+      lsans-15_87: 2091854028425326981
+      lsans-15_88: -5076546216759412305
+      lsans-15_89: 3557289086706495764
+      lsans-15_9: -1774940302758962217
+      lsans-15_90: -3683045538663973935
+      lsans-15_91: 4710990081654858059
+      lsans-15_92: 2671991819052154174
+      lsans-15_93: -4916816225678648501
+      lsans-15_94: -3460557166592316931
+      lsans-15_95: -3351669582016559525
+      lsans-15_96: -2866023213126614021
+      lsans-15_97: 2151015655893787925
+      lsans-15_98: -5026537498462481947
+      lsans-15_99: -3573278985909397880
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
