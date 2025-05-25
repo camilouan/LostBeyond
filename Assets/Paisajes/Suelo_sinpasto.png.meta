@@ -735,7 +735,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Suelo_sinpasto_0: -99632011502194567
+      Suelo_sinpasto_1: 6690535871022220077
+      Suelo_sinpasto_10: 9151517266617154874
+      Suelo_sinpasto_11: 6312905981123785854
+      Suelo_sinpasto_12: -1241990359375183729
+      Suelo_sinpasto_13: 7192162358066639749
+      Suelo_sinpasto_14: -2001963582832018331
+      Suelo_sinpasto_15: 1295381796260591502
+      Suelo_sinpasto_16: 5902196786236674367
+      Suelo_sinpasto_17: -9174356540271086661
+      Suelo_sinpasto_18: -1759571379691438859
+      Suelo_sinpasto_19: 4927831554742337
+      Suelo_sinpasto_2: -4838992221628810074
+      Suelo_sinpasto_20: -5789546575126824803
+      Suelo_sinpasto_21: 157104952750659962
+      Suelo_sinpasto_22: 5772801397063862175
+      Suelo_sinpasto_23: -5825295717913968425
+      Suelo_sinpasto_3: -6239043953621612056
+      Suelo_sinpasto_4: -3698886858172124029
+      Suelo_sinpasto_5: 6569918661389966722
+      Suelo_sinpasto_6: 3987242549315430225
+      Suelo_sinpasto_7: -438135353946812176
+      Suelo_sinpasto_8: 3526687837592030630
+      Suelo_sinpasto_9: -4921289469850073446
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

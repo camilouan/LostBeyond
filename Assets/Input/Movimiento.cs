@@ -108,6 +108,15 @@ public partial class @Movimiento: IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""InteraccionDash"",
+                    ""type"": ""Button"",
+                    ""id"": ""c3805f59-2d29-4b6e-b2ea-9343a4863cc7"",
+                    ""expectedControlType"": """",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
                 }
             ],
             ""bindings"": [
@@ -187,6 +196,17 @@ public partial class @Movimiento: IInputActionCollection2, IDisposable
                     ""action"": ""Salto"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""09cacc0a-5f81-4cd4-8fc7-94e857cb5ebb"",
+                    ""path"": ""<Keyboard>/e"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""InteraccionDash"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
                 }
             ]
         }
@@ -197,6 +217,7 @@ public partial class @Movimiento: IInputActionCollection2, IDisposable
         m_MovimientoJugador = asset.FindActionMap("MovimientoJugador", throwIfNotFound: true);
         m_MovimientoJugador_Horizontal = m_MovimientoJugador.FindAction("Horizontal", throwIfNotFound: true);
         m_MovimientoJugador_Salto = m_MovimientoJugador.FindAction("Salto", throwIfNotFound: true);
+        m_MovimientoJugador_InteraccionDash = m_MovimientoJugador.FindAction("InteraccionDash", throwIfNotFound: true);
     }
 
     ~@Movimiento()
@@ -279,6 +300,7 @@ public partial class @Movimiento: IInputActionCollection2, IDisposable
     private List<IMovimientoJugadorActions> m_MovimientoJugadorActionsCallbackInterfaces = new List<IMovimientoJugadorActions>();
     private readonly InputAction m_MovimientoJugador_Horizontal;
     private readonly InputAction m_MovimientoJugador_Salto;
+    private readonly InputAction m_MovimientoJugador_InteraccionDash;
     /// <summary>
     /// Provides access to input actions defined in input action map "MovimientoJugador".
     /// </summary>
@@ -298,6 +320,10 @@ public partial class @Movimiento: IInputActionCollection2, IDisposable
         /// Provides access to the underlying input action "MovimientoJugador/Salto".
         /// </summary>
         public InputAction @Salto => m_Wrapper.m_MovimientoJugador_Salto;
+        /// <summary>
+        /// Provides access to the underlying input action "MovimientoJugador/InteraccionDash".
+        /// </summary>
+        public InputAction @InteraccionDash => m_Wrapper.m_MovimientoJugador_InteraccionDash;
         /// <summary>
         /// Provides access to the underlying input action map instance.
         /// </summary>
@@ -330,6 +356,9 @@ public partial class @Movimiento: IInputActionCollection2, IDisposable
             @Salto.started += instance.OnSalto;
             @Salto.performed += instance.OnSalto;
             @Salto.canceled += instance.OnSalto;
+            @InteraccionDash.started += instance.OnInteraccionDash;
+            @InteraccionDash.performed += instance.OnInteraccionDash;
+            @InteraccionDash.canceled += instance.OnInteraccionDash;
         }
 
         /// <summary>
@@ -347,6 +376,9 @@ public partial class @Movimiento: IInputActionCollection2, IDisposable
             @Salto.started -= instance.OnSalto;
             @Salto.performed -= instance.OnSalto;
             @Salto.canceled -= instance.OnSalto;
+            @InteraccionDash.started -= instance.OnInteraccionDash;
+            @InteraccionDash.performed -= instance.OnInteraccionDash;
+            @InteraccionDash.canceled -= instance.OnInteraccionDash;
         }
 
         /// <summary>
@@ -401,5 +433,12 @@ public partial class @Movimiento: IInputActionCollection2, IDisposable
         /// <seealso cref="UnityEngine.InputSystem.InputAction.performed" />
         /// <seealso cref="UnityEngine.InputSystem.InputAction.canceled" />
         void OnSalto(InputAction.CallbackContext context);
+        /// <summary>
+        /// Method invoked when associated input action "InteraccionDash" is either <see cref="UnityEngine.InputSystem.InputAction.started" />, <see cref="UnityEngine.InputSystem.InputAction.performed" /> or <see cref="UnityEngine.InputSystem.InputAction.canceled" />.
+        /// </summary>
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.started" />
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.performed" />
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.canceled" />
+        void OnInteraccionDash(InputAction.CallbackContext context);
     }
 }

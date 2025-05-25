@@ -3,159 +3,157 @@ using UnityEngine.InputSystem;
 
 public class MovimientoJugadortr : MonoBehaviour
 {
+    [Header("Movimiento y Salto")]
     [SerializeField] private float velocidadMovimiento;
     [SerializeField] private float fuerzaSalto;
     [SerializeField] private Rigidbody2D rb2D;
+    private Animator animator;
 
+    [Header("Dash")]
+    [SerializeField] private float fuerzaDash = 10f;
+    [SerializeField] private float tiempoDash = 0.2f;
+    private bool puedeHacerDash = true;
+    private bool estaHaciendoDash = false;
+
+    [Header("Ground Check")]
+    [SerializeField] private Transform groundCheck;
+    [SerializeField] private LayerMask groundLayer;
+    [SerializeField] private Vector2 boxCastSize = new Vector2(0.5f, 0.1f);
+    [SerializeField] private float boxCastMaxDistance = 0.1f;
+
+    private Movimiento input;
     private float movimientoHorizontal = 0f;
     private bool estaSaltando = false;
-
-    // Variables para la detección de suelo con BoxCast
-    [SerializeField] private Transform groundCheck; // Punto de origen del BoxCast
-    [SerializeField] private LayerMask groundLayer; // Capa del suelo
-    [SerializeField] private Vector2 boxCastSize = new Vector2(0.5f, 0.1f); // Dimensiones de la caja de detección (ancho, alto)
-    [SerializeField] private float boxCastMaxDistance = 0.1f; // Distancia máxima que la caja se proyecta hacia abajo
-
-    private Vector3 velocidad = Vector3.zero; // Para SmoothDamp
-    [SerializeField] private InputActionAsset inputActions; // Necesario para el Input System
-    private Movimiento MovimientoJugador; // Esta es la clase wrapper generada por el Input System
+    private Vector3 velocidad = Vector3.zero;
 
     private void Awake()
     {
-        MovimientoJugador = new Movimiento(); // Instancia la clase wrapper
+        input = new Movimiento();
 
-        if (MovimientoJugador == null)
-        {
-            Debug.LogError("Error: La instancia de la clase MovimientoJugador es NULL después de instanciación en Awake. Verifica la generación del wrapper C#.");
-            return;
-        }
+        input.MovimientoJugador.Salto.performed += OnJumpPerformed;
+        input.MovimientoJugador.InteraccionDash.performed += OnDashPerformed;
+    }
 
-        // Suscribirse a los eventos de las acciones.
-        MovimientoJugador.MovimientoJugador.Salto.performed += OnJumpPerformed;
-        MovimientoJugador.MovimientoJugador.Enable(); // Habilitar la Action Map
+    private void Start()
+    {
+        animator = GetComponent<Animator>();
+        animator.SetBool("dashing", false);
     }
 
     private void OnEnable()
     {
-        if (MovimientoJugador != null)
-        {
-            MovimientoJugador.Enable();
-        }
+        input.MovimientoJugador.Enable();
     }
 
     private void OnDisable()
     {
-        if (MovimientoJugador != null)
-        {
-            MovimientoJugador.MovimientoJugador.Salto.performed -= OnJumpPerformed;
-            MovimientoJugador.Disable();
-        }
+        input.MovimientoJugador.Salto.performed -= OnJumpPerformed;
+        input.MovimientoJugador.InteraccionDash.performed -= OnDashPerformed;
+        input.MovimientoJugador.Disable();
     }
 
     private void Update()
     {
-        if (MovimientoJugador == null)
+        if (estaHaciendoDash) return;
+
+        movimientoHorizontal = input.MovimientoJugador.Horizontal.ReadValue<float>() * velocidadMovimiento;
+
+        if (animator != null)
         {
-            return;
+            animator.SetBool("running", movimientoHorizontal != 0.0f);
+            if (movimientoHorizontal < 0.0f) transform.localScale = new Vector3(-1.2f, 1.2f, 1.2f);
+            else if (movimientoHorizontal > 0.0f) transform.localScale = new Vector3(1.2f, 1.2f, 1.2f);
         }
 
-        // Leer el valor del input horizontal
-        movimientoHorizontal = MovimientoJugador.MovimientoJugador.Horizontal.ReadValue<float>() * velocidadMovimiento;
-
-        // Verificar el estado del suelo
-        bool currentIsGrounded = IsGrounded();
-        Debug.Log($"Valor actual de IsGrounded(): {currentIsGrounded}");
-
-        if (estaSaltando)
+        if (estaSaltando && IsGrounded())
         {
-            if (currentIsGrounded) // Solo salta si está en el suelo
-            {
-                if (rb2D != null)
-                {
-                    Debug.Log("¡Condición de salto cumplida! (En suelo y salto presionado). Aplicando fuerza.");
-                    rb2D.AddForce(new Vector2(0f, fuerzaSalto), ForceMode2D.Impulse);
-                }
-                else
-                {
-                    Debug.LogError("Rigidbody2D es NULL. Asegúrate de asignarlo en el Inspector.");
-                }
-                estaSaltando = false; // Resetea la bandera de salto
-            }
-            else
-            {
-                // Si intentó saltar pero no estaba en el suelo, resetea la bandera para no intentar de nuevo
-                Debug.Log("Intentó saltar, pero el personaje NO está en el suelo. estaSaltando se reinicia.");
-                estaSaltando = false;
-            }
+            rb2D.AddForce(new Vector2(0f, fuerzaSalto), ForceMode2D.Impulse);
+            estaSaltando = false;
+        }
+        else
+        {
+            estaSaltando = false;
         }
     }
 
     private void FixedUpdate()
     {
-        if (rb2D == null)
+        if (!estaHaciendoDash)
         {
-            Debug.LogError("Rigidbody2D es NULL en FixedUpdate. Asegúrate de asignarlo en el Inspector.");
-            return;
+            Mover(movimientoHorizontal * Time.fixedDeltaTime);
         }
-        Mover(movimientoHorizontal * Time.fixedDeltaTime);
     }
 
     private void Mover(float mover)
     {
-        // rb2D ya se verificó en FixedUpdate antes de llamar a Mover
         Vector3 velocidadObjetivo = new Vector2(mover, rb2D.linearVelocity.y);
         rb2D.linearVelocity = Vector3.SmoothDamp(rb2D.linearVelocity, velocidadObjetivo, ref velocidad, 0f);
     }
 
     private void OnJumpPerformed(InputAction.CallbackContext context)
     {
-        Debug.Log("¡Acción de Salto detectada! EstaSaltando a true.");
         estaSaltando = true;
     }
 
-    // ************************************************************
-    // *** NUEVA FUNCIÓN PARA DETECCIÓN DE SUELO CON BOXCAST ***
-    // ************************************************************
-    private bool IsGrounded()
+    private void OnDashPerformed(InputAction.CallbackContext context)
     {
-        if (groundCheck == null)
+        if (puedeHacerDash)
         {
-            Debug.LogError("GroundCheck no está asignado. Asegúrate de asignarlo en el Inspector.");
-            return false;
+            StartCoroutine(HacerDash());
         }
-
-        // Realiza un BoxCast desde el punto 'groundCheck' hacia abajo
-        RaycastHit2D hit = Physics2D.BoxCast(
-            groundCheck.position,         // Origen de la caja
-            boxCastSize,                  // Tamaño de la caja (ancho, alto)
-            0f,                           // Ángulo de la caja (0 grados, no rotada)
-            Vector2.down,                 // Dirección hacia abajo
-            boxCastMaxDistance,           // Distancia máxima de la proyección
-            groundLayer                   // Capas a detectar
-        );
-
-        return hit.collider != null; // Devuelve true si la caja golpeó algo
     }
 
-    // ************************************************************
-    // *** NUEVA FUNCIÓN PARA DIBUJAR GIZMOS DEL BOXCAST ***
-    // ************************************************************
-    void OnDrawGizmos()
+    private System.Collections.IEnumerator HacerDash()
+    {
+        puedeHacerDash = false;
+        estaHaciendoDash = true;
+
+        if (animator != null)
+        {
+            animator.SetBool("dashing", true);
+        }
+
+        rb2D.linearVelocity = new Vector2(transform.localScale.x * fuerzaDash, rb2D.linearVelocity.y);
+
+
+        yield return new WaitForSeconds(tiempoDash);
+
+        estaHaciendoDash = false;
+        puedeHacerDash = true;
+
+        
+        if (animator != null)
+        {
+            animator.SetBool("dashing", false);
+        }
+
+    }
+
+    private bool IsGrounded()
+    {
+        RaycastHit2D hit = Physics2D.BoxCast(
+            groundCheck.position,
+            boxCastSize,
+            0f,
+            Vector2.down,
+            boxCastMaxDistance,
+            groundLayer
+        );
+
+        return hit.collider != null;
+    }
+
+    private void OnDrawGizmos()
     {
         if (groundCheck == null) return;
 
-        // Dibuja la caja de detección en la Scene View
-        Gizmos.color = Color.blue; // Color para el BoxCast
-
-        // Calcula los puntos para dibujar la trayectoria de la caja
+        Gizmos.color = Color.blue;
         Vector2 origin = groundCheck.position;
         Vector2 target = origin + Vector2.down * boxCastMaxDistance;
 
-        // Dibuja la caja de inicio y la caja final
         Gizmos.DrawWireCube(origin, boxCastSize);
         Gizmos.DrawWireCube(target, boxCastSize);
 
-        // Dibuja las líneas que conectan las esquinas de las cajas para mostrar la "trayectoria"
         Vector2 halfSize = boxCastSize / 2f;
         Gizmos.DrawLine(origin + new Vector2(-halfSize.x, halfSize.y), target + new Vector2(-halfSize.x, halfSize.y));
         Gizmos.DrawLine(origin + new Vector2(halfSize.x, halfSize.y), target + new Vector2(halfSize.x, halfSize.y));
