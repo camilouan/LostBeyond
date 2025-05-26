@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: ffce467be5d35954db3c5bd705a4590f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5596788930989304366
+    second: consejo1_0
+  - first:
+      213: 8281427433123764057
+    second: consejo1_1
+  - first:
+      213: -4038025764744538504
+    second: consejo1_2
+  - first:
+      213: -9207888910215056182
+    second: consejo1_3
+  - first:
+      213: -2196009282910478490
+    second: consejo1_4
+  - first:
+      213: 110255008249477420
+    second: consejo1_5
+  - first:
+      213: 4716768787790499922
+    second: consejo1_6
+  - first:
+      213: 4709349128407159280
+    second: consejo1_7
+  - first:
+      213: 636863601986082396
+    second: consejo1_8
+  - first:
+      213: -3045741468390260155
+    second: consejo1_9
+  - first:
+      213: 4198114333068207369
+    second: consejo1_10
+  - first:
+      213: -4406747758084468742
+    second: consejo1_11
+  - first:
+      213: 2539589497052746454
+    second: consejo1_12
+  - first:
+      213: -1297706185775797980
+    second: consejo1_13
+  - first:
+      213: 1148060700819714792
+    second: consejo1_14
+  - first:
+      213: -5631857640957786346
+    second: consejo1_15
+  - first:
+      213: -3980262929361661151
+    second: consejo1_16
+  - first:
+      213: 2199392741941937517
+    second: consejo1_17
+  - first:
+      213: 3313718222523334655
+    second: consejo1_18
+  - first:
+      213: -4878748855296250895
+    second: consejo1_19
+  - first:
+      213: 7472968355139825106
+    second: consejo1_20
+  - first:
+      213: 3928463752965820624
+    second: consejo1_21
+  - first:
+      213: 8522801482267119182
+    second: consejo1_22
+  - first:
+      213: -7609707481692026500
+    second: consejo1_23
+  - first:
+      213: 1607255075586259222
+    second: consejo1_24
+  - first:
+      213: 5879612567437963185
+    second: consejo1_25
+  - first:
+      213: -9103162536910223820
+    second: consejo1_26
+  - first:
+      213: 8699566957934178
+    second: consejo1_27
+  - first:
+      213: 1300734482141556536
+    second: consejo1_28
+  - first:
+      213: -8447541615291684636
+    second: consejo1_29
+  - first:
+      213: 1290917612078638705
+    second: consejo1_30
+  - first:
+      213: -8497481431874680158
+    second: consejo1_31
+  - first:
+      213: 2343949293970213308
+    second: consejo1_32
+  - first:
+      213: 5712276949562768220
+    second: consejo1_33
+  - first:
+      213: 315530621147233078
+    second: consejo1_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: consejo1_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 370
+        width: 1150
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d55b8dce163452b0800000000000000
+      internalID: -5596788930989304366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 00c8872753f0de7478d2bb71e603e16b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      consejo1_0: -5596788930989304366
+      consejo1_1: 8281427433123764057
+      consejo1_10: 4198114333068207369
+      consejo1_11: -4406747758084468742
+      consejo1_12: 2539589497052746454
+      consejo1_13: -1297706185775797980
+      consejo1_14: 1148060700819714792
+      consejo1_15: -5631857640957786346
+      consejo1_16: -3980262929361661151
+      consejo1_17: 2199392741941937517
+      consejo1_18: 3313718222523334655
+      consejo1_19: -4878748855296250895
+      consejo1_2: -4038025764744538504
+      consejo1_20: 7472968355139825106
+      consejo1_21: 3928463752965820624
+      consejo1_22: 8522801482267119182
+      consejo1_23: -7609707481692026500
+      consejo1_24: 1607255075586259222
+      consejo1_25: 5879612567437963185
+      consejo1_26: -9103162536910223820
+      consejo1_27: 8699566957934178
+      consejo1_28: 1300734482141556536
+      consejo1_29: -8447541615291684636
+      consejo1_3: -9207888910215056182
+      consejo1_30: 1290917612078638705
+      consejo1_31: -8497481431874680158
+      consejo1_32: 2343949293970213308
+      consejo1_33: 5712276949562768220
+      consejo1_34: 315530621147233078
+      consejo1_4: -2196009282910478490
+      consejo1_5: 110255008249477420
+      consejo1_6: 4716768787790499922
+      consejo1_7: 4709349128407159280
+      consejo1_8: 636863601986082396
+      consejo1_9: -3045741468390260155
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

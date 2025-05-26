@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.InputSystem;
 
 public class MovimientoJugadortr : MonoBehaviour
@@ -14,6 +15,10 @@ public class MovimientoJugadortr : MonoBehaviour
     [SerializeField] private float tiempoDash = 0.2f;
     private bool puedeHacerDash = true;
     private bool estaHaciendoDash = false;
+    [SerializeField] private float cooldownDash = 4f; // 4 segundo de cooldown
+    [SerializeField] private Image cooldownDashImage;
+
+
 
     [Header("Ground Check")]
     [SerializeField] private Transform groundCheck;
@@ -119,6 +124,9 @@ public class MovimientoJugadortr : MonoBehaviour
         yield return new WaitForSeconds(tiempoDash);
 
         estaHaciendoDash = false;
+        animator.SetBool("dashing", false);
+        StartCoroutine(DashCooldownVisual(cooldownDash));
+        yield return new WaitForSeconds(cooldownDash);
         puedeHacerDash = true;
 
         
@@ -128,6 +136,22 @@ public class MovimientoJugadortr : MonoBehaviour
         }
 
     }
+
+    private System.Collections.IEnumerator DashCooldownVisual(float cooldown)
+    {
+    float tiempo = 0f;
+    cooldownDashImage.fillAmount = 1f; // Lleno al iniciar cooldown
+
+    while (tiempo < cooldown)
+    {
+        tiempo += Time.deltaTime;
+        cooldownDashImage.fillAmount = 1f - (tiempo / cooldown);
+        yield return null;
+    }
+
+    cooldownDashImage.fillAmount = 0f; // Vacío al terminar
+}
+
 
     private bool IsGrounded()
     {
