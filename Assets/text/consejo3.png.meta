@@ -1,22 +1,52 @@
 fileFormatVersion: 2
-guid: 900d9d2bacc8ff24e9a5e54b498f689a
+guid: ed3a1d3b02aaae540a47de321f07a5c7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7397551913813832793
-    second: Luna_idle_animation_0
+      213: 8634250053905166815
+    second: consejo3_0
   - first:
-      213: 4076735145958122067
-    second: Luna_idle_animation_1
+      213: -3170551099203658663
+    second: consejo3_1
   - first:
-      213: -80893648560553851
-    second: Luna_idle_animation_2
+      213: 5910748669221357176
+    second: consejo3_2
   - first:
-      213: -4596504057835285739
-    second: Luna_idle_animation_3
+      213: 5475837327327363919
+    second: consejo3_3
   - first:
-      213: 1307687975253510589
-    second: Luna_idle_animation_4
+      213: -3482189757598720073
+    second: consejo3_4
+  - first:
+      213: 1738342810269366901
+    second: consejo3_5
+  - first:
+      213: -2067294382666509595
+    second: consejo3_6
+  - first:
+      213: -6000033129343811513
+    second: consejo3_7
+  - first:
+      213: 637543174109239266
+    second: consejo3_8
+  - first:
+      213: 8690237423005998699
+    second: consejo3_9
+  - first:
+      213: 6336991793097864106
+    second: consejo3_10
+  - first:
+      213: -1281408025091459660
+    second: consejo3_11
+  - first:
+      213: -3175794873738658288
+    second: consejo3_12
+  - first:
+      213: -5751036714076960778
+    second: consejo3_13
+  - first:
+      213: 1426936935359132604
+    second: consejo3_14
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,7 +139,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WebGL
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -122,7 +152,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Android
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -138,13 +168,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Luna_idle_animation_0
+      name: consejo3_3
       rect:
         serializedVersion: 2
-        x: 7
-        y: 9
-        width: 35
-        height: 37
+        x: 381
+        y: 335
+        width: 550
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,96 +183,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 954726e854269a660800000000000000
-      internalID: 7397551913813832793
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luna_idle_animation_1
-      rect:
-        serializedVersion: 2
-        x: 55
-        y: 9
-        width: 35
-        height: 37
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3522f2a0409739830800000000000000
-      internalID: 4076735145958122067
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luna_idle_animation_2
-      rect:
-        serializedVersion: 2
-        x: 103
-        y: 9
-        width: 35
-        height: 37
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 58086fcb7ab90eef0800000000000000
-      internalID: -80893648560553851
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luna_idle_animation_3
-      rect:
-        serializedVersion: 2
-        x: 151
-        y: 9
-        width: 35
-        height: 37
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5131618a9efe530c0800000000000000
-      internalID: -4596504057835285739
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Luna_idle_animation_4
-      rect:
-        serializedVersion: 2
-        x: 199
-        y: 9
-        width: 35
-        height: 37
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: db9090af847d52210800000000000000
-      internalID: 1307687975253510589
+      spriteID: f430c2779051efb40800000000000000
+      internalID: 5475837327327363919
       vertices: []
       indices: 
       edges: []
@@ -251,7 +193,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 856cd0edc689f144ab5b134473a271f5
+    spriteID: 6bacd9a377c378946b6b083a591f2f7b
     internalID: 0
     vertices: []
     indices: 
@@ -261,11 +203,21 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Luna_idle_animation_0: 7397551913813832793
-      Luna_idle_animation_1: 4076735145958122067
-      Luna_idle_animation_2: -80893648560553851
-      Luna_idle_animation_3: -4596504057835285739
-      Luna_idle_animation_4: 1307687975253510589
+      consejo3_0: 8634250053905166815
+      consejo3_1: -3170551099203658663
+      consejo3_10: 6336991793097864106
+      consejo3_11: -1281408025091459660
+      consejo3_12: -3175794873738658288
+      consejo3_13: -5751036714076960778
+      consejo3_14: 1426936935359132604
+      consejo3_2: 5910748669221357176
+      consejo3_3: 5475837327327363919
+      consejo3_4: -3482189757598720073
+      consejo3_5: 1738342810269366901
+      consejo3_6: -2067294382666509595
+      consejo3_7: -6000033129343811513
+      consejo3_8: 637543174109239266
+      consejo3_9: 8690237423005998699
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
