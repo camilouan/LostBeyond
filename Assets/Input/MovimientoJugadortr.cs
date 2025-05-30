@@ -129,7 +129,7 @@ public class MovimientoJugadortr : MonoBehaviour
         yield return new WaitForSeconds(cooldownDash);
         puedeHacerDash = true;
 
-        
+
         if (animator != null)
         {
             animator.SetBool("dashing", false);
@@ -139,18 +139,18 @@ public class MovimientoJugadortr : MonoBehaviour
 
     private System.Collections.IEnumerator DashCooldownVisual(float cooldown)
     {
-    float tiempo = 0f;
-    cooldownDashImage.fillAmount = 1f; // Lleno al iniciar cooldown
+        float tiempo = 0f;
+        cooldownDashImage.fillAmount = 1f; // Lleno al iniciar cooldown
 
-    while (tiempo < cooldown)
-    {
-        tiempo += Time.deltaTime;
-        cooldownDashImage.fillAmount = 1f - (tiempo / cooldown);
-        yield return null;
+        while (tiempo < cooldown)
+        {
+            tiempo += Time.deltaTime;
+            cooldownDashImage.fillAmount = 1f - (tiempo / cooldown);
+            yield return null;
+        }
+
+        cooldownDashImage.fillAmount = 0f; // Vacío al terminar
     }
-
-    cooldownDashImage.fillAmount = 0f; // Vacío al terminar
-}
 
 
     private bool IsGrounded()
@@ -184,4 +184,6 @@ public class MovimientoJugadortr : MonoBehaviour
         Gizmos.DrawLine(origin + new Vector2(-halfSize.x, -halfSize.y), target + new Vector2(-halfSize.x, -halfSize.y));
         Gizmos.DrawLine(origin + new Vector2(halfSize.x, -halfSize.y), target + new Vector2(halfSize.x, -halfSize.y));
     }
+    
+    
 }
