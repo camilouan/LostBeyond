@@ -99,7 +99,7 @@
 
 ### Lenguaje de Programación
 
-- Kotlin (optimizado para móviles)  
+- C#  ,Shaderlab y demas
 
 ### Diseño y Arte
 
