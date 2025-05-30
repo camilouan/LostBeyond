@@ -1,10 +1,25 @@
 fileFormatVersion: 2
-guid: f44acc07d1218a24d9adef96e4816166
+guid: 094fbe8e8a25eee4793f6d6984905235
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8955085613496034032
-    second: Escenario 3_0
+      213: -2965393001259691005
+    second: Warning_0
+  - first:
+      213: -6164229943738199763
+    second: Warning_1
+  - first:
+      213: 3993272826795311914
+    second: Warning_2
+  - first:
+      213: 4725011352884109161
+    second: Warning_3
+  - first:
+      213: 738095869201933178
+    second: Warning_4
+  - first:
+      213: 5972417410165018177
+    second: Warning_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -126,13 +141,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Escenario 3_0
+      name: Warning_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 2
-        width: 800
-        height: 478
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +156,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 01d9b52a41529b380800000000000000
-      internalID: -8955085613496034032
+      spriteID: 3049c74d6cec8d6d0800000000000000
+      internalID: -2965393001259691005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warning_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2198a19681447aa0800000000000000
+      internalID: -6164229943738199763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warning_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23ca5c8a74fa6730800000000000000
+      internalID: 3993272826795311914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warning_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f58509acc929140800000000000000
+      internalID: 4725011352884109161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warning_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73e6fd484e3e3a00800000000000000
+      internalID: 738095869201933178
       vertices: []
       indices: 
       edges: []
@@ -151,7 +254,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9240701e8ce37a647b107c6d9530ae8c
     internalID: 0
     vertices: []
     indices: 
@@ -161,7 +264,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Escenario 3_0: -8955085613496034032
+      Warning_0: -2965393001259691005
+      Warning_1: -6164229943738199763
+      Warning_2: 3993272826795311914
+      Warning_3: 4725011352884109161
+      Warning_4: 738095869201933178
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

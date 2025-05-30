@@ -8,6 +8,11 @@ public class GameManager : MonoBehaviour
 
     private static int vidas = 3;
 
+    public static class DatosJuego
+    {
+        public static string idProximoSpawn = "";
+    }
+
     private void Awake()
     {
         if (Instance == null)
