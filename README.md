@@ -21,8 +21,8 @@
 ### Movimiento y Control
 
 - Movimiento libre a la izquierda y derecha.  
-- Saltar y agacharse para esquivar obstáculos o acceder a nuevas áreas.  
-- Opción de pausar y reanudar el juego en cualquier momento.  
+- Saltar y Dashear para esquivar obstáculos o acceder a nuevas áreas.  
+
 
 ### Interacción con el Entorno
 
